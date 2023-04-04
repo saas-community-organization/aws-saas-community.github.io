@@ -1,8 +1,8 @@
-site_name: 'SaaS Community'
-site_author: 'SaaS Community'
-site_url: 'https://saas-community.github.io/'
-repo_name: 'saas-community-organization/saas-community.github.io'
-repo_url: 'https://github.com/saas-community-organization/saas-community.github.io'
+site_name: 'AWS SaaS Community'
+site_author: 'AWS SaaS Community'
+site_url: 'https://aws-saas-community.github.io/'
+repo_name: 'saas-community-organization/aws-saas-community.github.io'
+repo_url: 'https://github.com/saas-community-organization/aws-saas-community.github.io'
 
 
 theme:
