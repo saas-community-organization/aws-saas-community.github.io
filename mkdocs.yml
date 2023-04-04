@@ -1,0 +1,33 @@
+site_name: 'SaaS Community'
+site_author: 'SaaS Community'
+site_url: 'https://saas-community.github.io/'
+repo_name: 'saas-community-organization/saas-community.github.io'
+repo_url: 'https://github.com/saas-community-organization/saas-community.github.io'
+
+
+theme:
+  name: 'material'
+  custom_dir: overrides
+  features:
+    - navigation.instant
+    - navigation.tabs
+  icon:
+    logo: 'fontawesome/solid/file-invoice'
+  font:
+    text: 'Lato'
+    code: 'PT Mono'
+  palette:
+    scheme: slate
+    primary: blue
+    accent: yellow
+  highlightjs: true
+  hljs_languages:
+  - yaml
+  - json
+  - bash
+markdown_extensions:
+- toc:
+    permalink: true
+- admonition
+- codehilite:
+    linenums: true
